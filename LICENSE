@@ -1,0 +1,20 @@
+# Open Source License
+
+CallShields is licensed under a modified version of the GNU Affero General Public License v3.0 (AGPL-3.0), with the following additional conditions:
+
+1. CallShields may be utilized commercially, including as a backend service for other applications or as an application development platform for enterprises. Should the conditions below be met, a commercial license must be obtained from the producer:
+
+a. Multi-tenant service: Unless explicitly authorized by CallShields in writing, you may not use the CallShields source code to operate a multi-tenant environment.
+    - Tenant Definition: Within the context of CallShields, one tenant corresponds to one workspace. The workspace provides a separated area for each tenant's data and configurations.
+
+b. LOGO and copyright information: In the process of using CallShields's frontend, you may not remove or modify the LOGO or copyright information in the CallShields console or applications. This restriction is inapplicable to uses of CallShields that do not involve its frontend.
+    - Frontend Definition: For the purposes of this license, the "frontend" of CallShields includes all web-based components, mobile app interfaces, and user-facing components of the application.
+
+2. As a contributor, you should agree that:
+
+a. The producer can adjust the open-source agreement to be more strict or relaxed as deemed necessary.
+b. Your contributed code may be used for commercial purposes, including but not limited to its cloud business operations.
+
+Apart from the specific conditions mentioned above, all other rights and restrictions follow the GNU Affero General Public License v3.0 (AGPL-3.0). Detailed information about the AGPL-3.0 can be found at https://www.gnu.org/licenses/agpl-3.0.html.
+
+© 2026 CallShields
