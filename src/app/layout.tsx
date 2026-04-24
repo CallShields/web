@@ -1,4 +1,5 @@
 import { TempoInit } from "@/components/tempo-init";
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Script from "next/script";
@@ -22,6 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         {children}
         <TempoInit />
+        <Analytics />
       </body>
     </html>
   );
