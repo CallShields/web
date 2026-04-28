@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "CallShields",
   description: "CallShields - Protect your phone from scams",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
