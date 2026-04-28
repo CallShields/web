@@ -136,7 +136,7 @@ export default async function Dashboard() {
                 </div>
 
                 <a
-                  href="https://billing.stripe.com/p/login/test_fZu4gzfZC61aedS0NZ1RC00"
+                  href="https://billing.stripe.com/p/login/eVq7sLbOv7T69q6dSV3wQ00"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-[#00D4AA] hover:bg-[#00C49A] text-[#0A2540] text-sm font-bold px-5 py-2.5 rounded-xl transition-colors shadow-md"
